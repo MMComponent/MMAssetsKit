@@ -1,0 +1,33 @@
+{
+  "name": "MMAssetsKit",
+  "version": "1.0",
+  "summary": "A short description of MMAssetsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MMComponent/MMAssetsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "boxytt": "14ktyang@stu.edu.cn"
+  },
+  "source": {
+    "git": "https://github.com/MMComponent/MMAssetsKit.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MMAssetsKit/Classes/**/*",
+  "dependencies": {
+    "MMCategoryKit": [
+
+    ],
+    "MMPickerViewKit": [
+
+    ],
+    "WCDB": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module Pods_MMAssetsKit_Tests {
+  umbrella header "Pods-MMAssetsKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

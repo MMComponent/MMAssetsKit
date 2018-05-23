@@ -1,0 +1,27 @@
+PODS:
+  - MMAssetsKit (1.0):
+    - MMCategoryKit
+    - MMPickerViewKit
+    - WCDB
+  - MMCategoryKit (1.0)
+  - MMPickerViewKit (1.0)
+  - WCDB (1.0.6):
+    - WCDB/sqlcipher (= 1.0.6)
+  - WCDB/sqlcipher (1.0.6)
+
+DEPENDENCIES:
+  - MMAssetsKit (from `../`)
+
+EXTERNAL SOURCES:
+  MMAssetsKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MMAssetsKit: 50cae019896823187ae2a565803339ef0684523b
+  MMCategoryKit: 19622d0361e8602ffe96cd3a2d842c8fecfb6d40
+  MMPickerViewKit: 1238141676b8afd1f09843b797d1ceeed1280c90
+  WCDB: 4d2926bf695b2e00d785b50afd32c2dcc8cbbd98
+
+PODFILE CHECKSUM: a294ea94ac85e5367c9bfdd7d2bfd017a6d4c00e
+
+COCOAPODS: 1.4.0
